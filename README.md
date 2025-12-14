@@ -7,6 +7,8 @@ Built for **smart cities, campuses, events, stations, and malls**.
 
 ---
 
+<marquee>Working url https://smartcrowd.netlify.com Click Here </marquee>
+
 ## ✨ Key Features
 
 * 🎥 **Live Camera Detection**
