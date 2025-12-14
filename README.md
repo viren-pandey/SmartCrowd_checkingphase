@@ -7,7 +7,7 @@ Built for **smart cities, campuses, events, stations, and malls**.
 
 ---
 
-<marquee>Working url https://smartcrowd.netlify.com Click Here </marquee>
+<marquee>Working url [https://smartcrowd.netlify.com](https://smartcrowd.netlify.app/) Click Here </marquee>
 
 ## ✨ Key Features
 
